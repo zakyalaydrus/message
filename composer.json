@@ -1,0 +1,18 @@
+{
+    "name": "mzakyalaydrus/message",
+    "description": "test message",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Zaky Alaydrus",
+            "email": "zakyalaydrus@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "mzakyalaydrus\\message\\": "src/"
+        }
+    }
+}
